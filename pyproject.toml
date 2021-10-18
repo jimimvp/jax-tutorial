@@ -15,7 +15,11 @@ numpy = "*"
 numpyro = "*"
 matplotlib = "*"
 ipykernel = "^6.4.1"
-
+tensorflow-datasets = "*"
+tensorflow = "2.2"
+ipywidgets = "*"
+jupyter = "*"
+sklearn = "*"
 
 [tool.poetry.dev-dependencies]
 
