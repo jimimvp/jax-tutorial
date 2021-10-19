@@ -4,7 +4,7 @@ Follow these installation steps.
 
 ## 0. Python
 
-We'll use Python `3.7.10` One option to install it is using [https://github.com/pyenv/pyenv-installer](pyenv) or install it locally however you see fit.
+We'll use Python `3.7.6` One option to install it is using [https://github.com/pyenv/pyenv-installer](pyenv) or install it locally however you see fit.
 
 ## 1. Dependencies
 
